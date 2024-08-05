@@ -1,0 +1,8 @@
+# Dependencies installed in Docker
+node_modules
+
+# Dist generated in Docker
+dist
+
+# CDK infrastructure code not needed in image
+cdk
